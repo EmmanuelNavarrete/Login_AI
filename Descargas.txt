@@ -1,0 +1,35 @@
+Todas las librerias se intalan mediante pip3, para esto al instalar python debe de estar en el path de aplicaciones
+para que reconozca el comando en consola. Recomiendo que el python lo instalen desde la pagina oficial y no desde
+la microsoft store, solo por los directorios en los que se instala cada uno.
+
+>--------------------------------------------------Link de descarga-----------------------------------------------<
+https://www.python.org/downloads/   //Yo uso la version 3.10.7
+
+//Una vez instalado python, abrimos la consola y escribimos el siguiente comando para instalar las librerias
+//que se usaran en el proyecto o los basicos para Inteligenia Artificial
+
+pip3 install numpy //Libreria para manejo de matrices
+pip3 install pandas //Libreria para manejo de datos
+pip3 install matplotlib //Libreria para graficar datos
+pip3 install seaborn //Libreria para graficar datos
+pip3 install tensorflow //Libreria para Inteligenia Artificial
+pip3 install opencv-python //Libreria para manejo de imagenes
+pip3 install keras //Libreria para Inteligenia Artificial
+pip3 install scikit-learn //Libreria para Inteligenia Artificial
+pip install mtcnn //Libreria para reconocimiento facial
+pip install tk //Libreria para interfaz grafica
+
+pip intall speech_recognition //Libreria para reconocimiento de voz
+pip install pyttsx3 //Libreria para sintetizar voz
+pip install pywhatkit //Libreria para enviar mensajes de whatsapp
+pip install pyjokes //Libreria para contar chistes
+pip install pyautogui //Libreria para controlar el mouse y el teclado
+pip install wikipedia //Libreria para buscar en wikipedia
+pip install pyaudio //Libreria para reconocimiento de voz
+pip install playsound //Libreria para reproducir sonidos
+pip install pytube //Libreria para descargar videos de youtube
+
+
+//Todo debe ser instalado en la carpeta de python de lo contratario no funcionara y el IDE arrojará errores
+// mi ruta de instalacion es C:\Users\Usuario\AppData\Local\Programs\Python\Python310\Scripts
+
